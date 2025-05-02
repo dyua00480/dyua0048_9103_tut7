@@ -11,3 +11,9 @@ Created new p5
 
 ![An image of a cat](https://placekitten.com/200/300
 Links to an external site.)
+
+```
+function helloWorld() {
+console.log("Hello, world!");
+}
+```
